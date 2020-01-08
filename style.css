@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: seagreen;
+}
+
+h1 {
+    color:purple;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+h3 {
+    color: rgb(159, 179, 73);
+}
+
+p {
+    color: whitesmoke;
+}
+
+#special {
+    list-style: armenian; 
+    font-weight: 900;
+    font-size: 10px;
+    color: rgb(110, 7, 7);
+}
+
+.square {
+    text-align: center;
+    padding: 30px;
+    color: honeydew;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(15, 13, 155);
+    border: dotted gold;
+    border-radius: 100px;
+}
+
+.species {
+    list-style: lower-greek;
+    color: darkblue;
+    font-size: 20px;
+}
